@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph.svg?v=1" alt="Pacman animation" />
 
 <br><br>
 
