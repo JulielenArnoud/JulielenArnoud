@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *" # Roda automaticamente a cada 12 horas
   workflow_dispatch: 
-
 jobs:
   generate:
     permissions:
@@ -16,7 +15,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          
+          theme: dark           
       - name: Push pacman image to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
