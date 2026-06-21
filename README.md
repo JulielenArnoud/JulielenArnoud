@@ -36,18 +36,23 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph.svg?v=1" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
 
-<br><br>
+  
+  
+
 
 > *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*
 > — **John Carmack**
 
-<br><br>
+  
+  
+
 
 💜 💻 **Thank you for visiting my profile** 💻 💜
 
-<br>
+  
+
 
 <img src="https://komarev.com/ghpvc/?username=JulielenArnoud&label=VIEWS&color=F700FF&style=flat&logo=github" alt="Visitor Counter" />
 
