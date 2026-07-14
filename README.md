@@ -29,7 +29,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulielenArnoud&theme=radical&bg_color=161b22&hide_border=true" height="160" alt="Julielen's Activity Graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulielenArnoud&theme=radical&background=161b22&hide_border=true" height="160" alt="Julielen's Streak Statistics"/>
 
 </div>
 
