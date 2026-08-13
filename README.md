@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 Statistics and Activities
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulielenArnoud&theme=radical&bg_color=161b22&hide_border=true" height="160" alt="Julielen's Activity Graph"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
