@@ -9,7 +9,7 @@
 ## 💻 About me
 
 🎓 Software Engineering student at Unipampa  
-☁️ Studying **AWS Cloud** infrastructure and services  
+☁️ Studying AWS Cloud infrastructure and services  
 🚀 Interested in agile methodologies and technology project evolution  
 📚 Always seeking continuous learning and practical improvement  
 
@@ -35,9 +35,12 @@
 > *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*
 > — **John Carmack**
 
-  
-  
+## 📊 Statistics and Activities
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulielenArnoud&theme=radical&bg_color=161b22&hide_border=true" height="160" alt="Julielen's Activity Graph"/>
+</div>
+  
 
 💜 💻 **Thank you for visiting my profile** 💻 💜
 
