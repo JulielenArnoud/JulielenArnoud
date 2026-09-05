@@ -17,35 +17,60 @@
 
 ## 🛠️ Technologies and Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,mysql,postgres,aws,linux,git,github,vscode" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="700" src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,mysql,postgres,aws,linux,git,github,postman,cypress,vue,vscode,idea&perline=9" alt="Technologies and tools" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+<table>
+  <tr>
+    <td align="center" style="background-color:#161b22; border: 2px solid #F700FF; border-radius: 10px; padding: 20px;">
+      <img src="https://raw.githubusercontent.com/JulielenArnoud/JulielenArnoud/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
+    </td>
+  </tr>
+</table>
 
-  
-  
+</div>
 
-> *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*
-> — **John Carmack**
+---
 
 ## 📊 Statistics and Activities
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulielenArnoud&theme=radical&bg_color=161b22&hide_border=true&v=2" height="160" alt="Julielen's Activity Graph"/>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulielenArnoud&theme=radical&bg_color=161b22&v=3" height="200" alt="Julielen's GitHub Profile Details" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulielenArnoud&theme=radical&background=161b22&ring=F700FF&fire=F700FF&currStreakLabel=F700FF&hide_border=true" height="200" alt="Julielen's GitHub Streak" />
+    </td>
+  </tr>
   
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*
+> — **John Carmack**
 
 💜 💻 **Thank you for visiting my profile** 💻 💜
-
-  
-
 
 <img src="https://komarev.com/ghpvc/?username=JulielenArnoud&label=VIEWS&color=F700FF&style=flat&logo=github" alt="Visitor Counter" />
 
