@@ -45,26 +45,6 @@
 
 ---
 
-## 📊 Statistics and Activities
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulielenArnoud&theme=radical&bg_color=161b22&v=3" height="200" alt="Julielen's GitHub Profile Details" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulielenArnoud&theme=radical&background=161b22&ring=F700FF&fire=F700FF&currStreakLabel=F700FF&hide_border=true" height="200" alt="Julielen's GitHub Streak" />
-    </td>
-  </tr>
-  
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 > *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*
