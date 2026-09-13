@@ -1,1 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <mask id="pacman-mouth">
+      <rect width="64" height="64" fill="white"></rect>
+      <polygon points="32,32 64,14 64,50" fill="black"></polygon>
+    </mask>
+  </defs>
 
+  <circle cx="32" cy="32" r="28" fill="#FFD43B" mask="url(#pacman-mouth)"></circle>
+  <circle cx="32" cy="18" r="3.5" fill="#1F2328"></circle>
+</svg>
