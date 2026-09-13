@@ -22,7 +22,10 @@
 <table>
   <tr>
     <td align="center">
-      <img width="700" src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,mysql,postgres,aws,linux,git,github,postman,cypress,vue,vscode,idea&perline=9" alt="Technologies and tools" />
+      <img
+        src="https://skillicons.dev/icons?i=py,js,vue,ts,html,css,react,nodejs,mysql,postgres,aws,linux,git,github,postman,cypress,vscode,idea&perline=18"
+        alt="Technologies and tools"
+      />
     </td>
   </tr>
 </table>
